@@ -1,0 +1,5 @@
+Region,Subregion,Stock,Name,EnglishName,ScientificName,Source,MinOfYear,MaxOfYear,StartYear,EndYear,Flim,Fpa,Blim,Bpa,Bmsy,FMSY,MSY,MSYBtrigger,B40,M,Fofl,Resilience,r.low,r.hi,stb.low,stb.hi,int.yr,intb.low,intb.hi,endb.low,endb.hi,q.start,q.end,btype,force.cmsy,Comment
+South Atlantic,Wide ranging,SMA.SA.C1.proof,Shortfin mako,Shortfin mako, Isurus oxyrinchus,,1971,2015,1971,2015,,,,,,,,,,,,Very.low,0.03,0.09,0.85,0.99,1995,0.3,0.85,0.1,0.8,NA,NA,CPUE,F,
+North Atlantic,Wide ranging,SMA.NA.C1.proof,Shortfin mako,Shortfin mako, Isurus oxyrinchus,,1950,2015,1950,2015,,,,,,,,,,,,Very.low,0.01,0.06,0.85,0.99,1990,0.3,0.85,0.1,0.8,NA,NA,CPUE,F,
+South Atlantic,Wide ranging,SMA.SA.C1,Shortfin mako,Shortfin mako, Isurus oxyrinchus,,1971,2015,1971,2015,,,,,,,,,,,,Very.low,0.03,0.09,0.85,0.99,1995,0.3,0.85,0.1,0.8,NA,NA,None,F,
+South Atlantic,Wide ranging,SMA.SA.C2,Shortfin mako,Shortfin mako, Isurus oxyrinchus,,1971,2015,1971,2015,,,,,,,,,,,,Very.low,0.03,0.09,0.6,0.99,1995,0.3,0.85,0.1,0.8,NA,NA,None,F,
