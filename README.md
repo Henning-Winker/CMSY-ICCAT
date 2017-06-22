@@ -3,4 +3,4 @@ CMSY-ICCAT is an “ICCAT-friendly” version of the original CMSY R code by Fro
 
 [Froese, R., Demirel, N., Coro, G., Kleisner, K.M., Winker, H., 2016. Estimating fisheries reference points from catch and resilience. Fish Fish. 18: 506-526. 10.1111/faf.12190. doi:10.1111/faf.12190](http://onlinelibrary.wiley.com/doi/10.1111/faf.12190/abstract)
 
-
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
